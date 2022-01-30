@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "4600879083",
+    "firebase_url": "https://my-college-android-app-default-rtdb.firebaseio.com",
+    "project_id": "my-college-android-app",
+    "storage_bucket": "my-college-android-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4600879083:android:4ce71e9c18ca62b0416bae",
+        "android_client_info": {
+          "package_name": "com.aniket_aman.collegeadminapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4600879083-95qtfe5nhksiedtjjpmim1dc6e1s47o1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFR8J_aabNiSmhsF1GgrEdiZeJpLqA1ww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4600879083-95qtfe5nhksiedtjjpmim1dc6e1s47o1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
